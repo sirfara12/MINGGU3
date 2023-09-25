@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pemilihanpercobaan328",
+            "request": "launch",
+            "mainClass": "mingguke5.pemilihanpercobaan328",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "pemilihanpercobaan228",
+            "request": "launch",
+            "mainClass": "mingguke5.pemilihanpercobaan228",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "pemilihanpercobaan128",
+            "request": "launch",
+            "mainClass": "mingguke5.pemilihanpercobaan128",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "pemilihanpercobaan128",
+            "request": "launch",
+            "mainClass": "pemilihanpercobaan128",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "ketersediaanruang",
+            "request": "launch",
+            "mainClass": "projek.ketersediaanruang",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "bank28",
+            "request": "launch",
+            "mainClass": "bank28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "contohoperator28",
+            "request": "launch",
+            "mainClass": "contohoperator28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "contohtipedata28",
+            "request": "launch",
+            "mainClass": "contohtipedata28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "contohvariabel28",
+            "request": "launch",
+            "mainClass": "contohvariabel28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "ketersediaanruangkelompok",
+            "request": "launch",
+            "mainClass": "ketersediaanruangkelompok",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "latihan1",
+            "request": "launch",
+            "mainClass": "latihan1",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "segitiga28",
+            "request": "launch",
+            "mainClass": "segitiga28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "ketersediaanruang2",
+            "request": "launch",
+            "mainClass": "sistemKR.ketersediaanruang2",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "gaji28",
+            "request": "launch",
+            "mainClass": "sistemKR.mingguke4.gaji28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "hargabayar28",
+            "request": "launch",
+            "mainClass": "sistemKR.mingguke4.hargabayar28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "pseudocodedanflowchart",
+            "request": "launch",
+            "mainClass": "sistemKR.mingguke4.pseudocodedanflowchart",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "sistemketersediaanruang1",
+            "request": "launch",
+            "mainClass": "sistemKR.sistemketersediaanruang1",
+            "projectName": "MINGGU3_f62238b3"
+        }
+    ]
+}
