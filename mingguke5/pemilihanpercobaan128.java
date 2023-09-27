@@ -7,13 +7,16 @@ public class pemilihanpercobaan128 {
         Scanner input28 = new Scanner(System.in);
         System.out.print("masukkan angka: ");
         int angka = input28.nextInt();
-if (angka % 4 == 0){
-    System.out.println("angka "+angka+" bilangan genap");
-}else{
-    System.out.println("angka "+angka+" bilangan ganjil");
-}
-        
+        String hasil;
 
+ //if (angka % 2 == 0) {
+  // System.out.println("angka "+angka+" bilangan genap");
+ //}
+//else{
+   //System.out.println("angka "+angka+" bilangan ganjil");
+//}
 
+hasil = (angka % 2 == 0) ? "bilangan genap" : "bilangan ganjil";
+System.out.println(hasil);
     }
 }

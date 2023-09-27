@@ -11,14 +11,14 @@ public class pemilihanpercobaan328 {
          angka1 = input28.nextDouble();
          System.out.print("masukkan angka kedua: ");
          angka2 = input28.nextDouble();
-         System.out.print("masukkan operator: ");
+         System.out.print("masukkan operator (+ - * /): ");
          operator = input28.next().charAt(0);
 
     switch (operator) {
         case '+':
         hasil = angka1 + angka2;
         System.out.print(angka1 + " + " + angka2 + "=" + hasil);
-        break;
+       //break;
         case '-':
         hasil = angka1 - angka2;
         System.out.println(angka1 + " - " + angka2 + "=" + hasil);
