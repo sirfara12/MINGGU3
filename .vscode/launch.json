@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pemilihan2Percobaan128",
+            "request": "launch",
+            "mainClass": "mingguke6.Pemilihan2Percobaan128",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "sistem3",
+            "request": "launch",
+            "mainClass": "sistem3",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "sistem3",
+            "request": "launch",
+            "mainClass": "projek.sistem3",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
             "name": "jbst5opternary28",
             "request": "launch",
             "mainClass": "soalsir.jbst5opternary28",
