@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "soalno3percobaan3",
+            "request": "launch",
+            "mainClass": "mingguke6.soalno3percobaan3",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "projekmain",
+            "request": "launch",
+            "mainClass": "projek.projekmain",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "soalno4percobaan1",
+            "request": "launch",
+            "mainClass": "mingguke6.soalno4percobaan1",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "projekmain",
+            "request": "launch",
+            "mainClass": "projekmain",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "sistemprojekmain",
+            "request": "launch",
+            "mainClass": "sistemprojekmain",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan328",
+            "request": "launch",
+            "mainClass": "mingguke6.Pemilihan2Percobaan328",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan228",
+            "request": "launch",
+            "mainClass": "mingguke6.Pemilihan2Percobaan228",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
             "name": "Pemilihan2Percobaan128",
             "request": "launch",
             "mainClass": "mingguke6.Pemilihan2Percobaan128",

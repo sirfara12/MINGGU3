@@ -16,11 +16,8 @@ public class sistem2 {
         int waktuMenit = scanner.nextInt();
         System.out.print("Lama penggunaan ruangan (Menit): " );
         int durasi = scanner.nextInt();
-
-        System.out.print("jumlah orang : " );
-        int orang = scanner.nextInt();
-        boolean jumlahMaksimal = orang <= 30; 
-
+      
+       
         //Perhitungan
         int menitKeluar = waktuMenit + durasi;
         int jam,menit;
@@ -32,6 +29,8 @@ public class sistem2 {
             jam = waktuJam;
             menit = menitKeluar;
         }
+        int orang = scanner.nextInt();
+        boolean jumlahMaksimal = orang <= 30;
 
         //Membuat printoutnya
         System.out.print("Atas nama : " + namaPerwakilan);
@@ -39,7 +38,10 @@ public class sistem2 {
         System.out.print("\nDengan jumlah orang :" + orang + "/" + jumlahMaksimal);
         System.out.print("\nKalian masuk pada pukul: " + waktuJam + ":" + waktuMenit);
         System.out.print("\nKalian keluar pukul: " + jam + ":" + menit );
-
+       
+    
         scanner.close();
     }
 }
+
+
