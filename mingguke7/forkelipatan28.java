@@ -6,6 +6,7 @@ public class forkelipatan28 {
         int kelipatan;
         int jumlah = 0;
         int counter = 0;
+       
 
         System.out.print("masukan bilangan kelipatan (1-9): ");
         kelipatan = scan.nextInt();
@@ -13,10 +14,10 @@ public class forkelipatan28 {
         if (i % kelipatan == 0) {
             jumlah += i;
             counter++;
-        }
     }
     System.out.printf("banyaknya bilangan %d dari 1 sampai 50 adalah %d\n", kelipatan, counter);
     System.out.printf("jumlah bilangan kelipatan %d dari 1 sampai 50 adalah %d\n", kelipatan, jumlah);
-
+     
     }
+}
 }
