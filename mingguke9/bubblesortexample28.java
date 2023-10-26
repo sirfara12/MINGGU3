@@ -8,8 +8,6 @@ public class bubblesortexample28 {
 
         int[] intdata = {34, 18, 87, 72, 32, 54, 43};
         int temp = 0;
-
-
         
         for (int i=0; i <  intdata.length; i++){
             for (int j=1; j < intdata.length-i; j++){
@@ -20,7 +18,7 @@ public class bubblesortexample28 {
                     intdata[j-1] = temp;
                 }
             }
-        } 
+        }
         System.out.println("hasil perguruan:");
         for (int i=0; i < intdata.length; i++) {
             System.out.println(intdata[i]);
