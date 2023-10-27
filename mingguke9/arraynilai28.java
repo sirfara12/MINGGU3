@@ -6,6 +6,7 @@ public class arraynilai28 {
     public static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
 
+         
          int[] nilaiakhir = new int [10];   
 
         for (int i = 0; i < nilaiakhir.length; i++) {
