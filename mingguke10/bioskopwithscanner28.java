@@ -31,41 +31,35 @@ public class bioskopwithscanner28 {
                 System.out.print("Masukkan kolom: ");
                 kolom = sc.nextInt();
                 sc.nextLine();
-                penonton [baris-1][kolom-1] = nama;
-               
-                break;
-            case 2:
-                System.out.println("Daftar penonton:");
-                for (int i = 0; i < penonton.length; i++) {
-                    for (int j = 0; j < penonton[i].length; j++) {
-                         if (penonton[i][j] != null) {
-                             System.out.printf("%d-%d: %s\n", i+1, j+1, penonton[i][j]);
-                             }             
-                               }
+
+                if (baris >= 1 && baris <= penonton.length && kolom >= 1 && kolom <= penonton[0].length) {
+                    if (penonton[baris - 1][kolom - 1] == null) {
+                        penonton[baris - 1][kolom - 1] = nama;
+                            System.out.println("Data penonton berhasil dimasukkan.");
+                    } else {
+                        System.out.println("kursi sudah ditempati. pilih kursi lain.");
+                    }
+                } else {
+                    System.out.println("Nomor baris/kolom kursi tidak tersedia. ");
                 }
                 break;
-                case 3:
-                return;
-                default:
-                System.out.println("Pilihan tidak valid.");
+            case 2:
+            System.out.println("Daftar penonton:");
+                    for (int i = 0; i < penonton.length; i++) {
+                         for (int j = 0; j < penonton[i].length; j++) {
+                             if (penonton[i][j] != null) {
+                                System.out.printf("%d-%d: %s\n", i+1, j+1, penonton[i][j]);
+                             } else {
+                                System.out.printf("%d-%d: ***\n", i + 1, j + 1);
+                                }
+                        }
+                  }
+            break;
             
-
-            //while (true) {
-              //  System.out.print("masukkan nama : ");
-                //nama = sc.nextLine();
-                //System.out.print("masukkan baris: ");
-                //baris = sc.nextInt();
-                //System.out.print("masukkan kolom: ");
-                //kolom = sc.nextInt();
-                //sc.nextLine();
-
-                //penonton[baris-1][kolom-1] = nama;
-
-                //System.out.print("input penonton lainnya? (y/n): ");
-                //next = sc.nextLine();
-
-                //if (next.equalsIgnoreCase("n")) {
-                  //  break;
+               case 3:
+                return;
+            default:
+                    System.out.println("Pilihan tidak valid.");
                 }
 
             }
