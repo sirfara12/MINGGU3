@@ -10,6 +10,11 @@ public class numbers28 {
         mynumbers[1] = new int[3];
         mynumbers[2] = new int[1];
 
+        for (int i = 0; i < mynumbers.length; i++) {
+            System.out.println("panjang baris ke-" + (i+1) + ": " + mynumbers[i].length);
+        }
+
+
        
     }
 }
