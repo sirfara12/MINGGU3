@@ -6,6 +6,237 @@
     "configurations": [
         {
             "type": "java",
+            "name": "tindividu3",
+            "request": "launch",
+            "mainClass": "mingguke11.tindividu3",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "tindividu2",
+            "request": "launch",
+            "mainClass": "mingguke11.tindividu2",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "tugasindividu1",
+            "request": "launch",
+            "mainClass": "mingguke11.tugasindividu1",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "jwbpertayaannesteloop2",
+            "request": "launch",
+            "mainClass": "mingguke10.jwbpertayaannesteloop2",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "nestedloop_2341720072",
+            "request": "launch",
+            "mainClass": "mingguke11.nestedloop_2341720072",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "quiz28",
+            "request": "launch",
+            "mainClass": "mingguke11.quiz28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "triangle2",
+            "request": "launch",
+            "mainClass": "mingguke11.triangle2",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "square28",
+            "request": "launch",
+            "mainClass": "mingguke11.square28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "start28",
+            "request": "launch",
+            "mainClass": "mingguke11.start28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "penambahanarray2",
+            "request": "launch",
+            "mainClass": "projek.penambahanarray2",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "login3",
+            "request": "launch",
+            "mainClass": "projek.login3",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "numbers28",
+            "request": "launch",
+            "mainClass": "mingguke10.numbers28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "bioskopwithscanner28",
+            "request": "launch",
+            "mainClass": "mingguke10.bioskopwithscanner28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "bioskop28",
+            "request": "launch",
+            "mainClass": "mingguke10.bioskop28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "penambahanarray1",
+            "request": "launch",
+            "mainClass": "projek.penambahanarray1",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "prulanganlogin",
+            "request": "launch",
+            "mainClass": "projek.prulanganlogin",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "projek.array1",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "projek.array",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "penambaharray",
+            "request": "launch",
+            "mainClass": "projek.penambaharray",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "perulanganlogin",
+            "request": "launch",
+            "mainClass": "projek.perulanganlogin",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "tugasno1",
+            "request": "launch",
+            "mainClass": "mingguke9.tugasno1",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "bubblesortexample28",
+            "request": "launch",
+            "mainClass": "mingguke9.bubblesortexample28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "arraynilairatarata28",
+            "request": "launch",
+            "mainClass": "mingguke9.arraynilairatarata28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "arraynilai28",
+            "request": "launch",
+            "mainClass": "mingguke9.arraynilai28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "arraybilangan28",
+            "request": "launch",
+            "mainClass": "mingguke9.arraybilangan28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "projekmain1",
+            "request": "launch",
+            "mainClass": "projek.projekmain1",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "loginwhille",
+            "request": "launch",
+            "mainClass": "projek.loginwhille",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "pertanyaanno2dowhille",
+            "request": "launch",
+            "mainClass": "mingguke7.pertanyaanno2dowhille",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "whillekelipatan28",
+            "request": "launch",
+            "mainClass": "mingguke7.whillekelipatan28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "pertanyaanpercobaanforkelipatan28",
+            "request": "launch",
+            "mainClass": "mingguke7.pertanyaanpercobaanforkelipatan28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "dowhilecuti28",
+            "request": "launch",
+            "mainClass": "mingguke7.dowhilecuti28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "whilegaji28",
+            "request": "launch",
+            "mainClass": "mingguke7.whilegaji28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
+            "name": "forkelipatan28",
+            "request": "launch",
+            "mainClass": "mingguke7.forkelipatan28",
+            "projectName": "MINGGU3_f62238b3"
+        },
+        {
+            "type": "java",
             "name": "soalno3percobaan3",
             "request": "launch",
             "mainClass": "mingguke6.soalno3percobaan3",

@@ -14,13 +14,23 @@ public class quiz28 {
                 System.out.print("tebak angka (1-10): ");
                 int answer = input.nextInt();
                 input.nextLine();
-                success = (answer == number);
+
+            
+                if (answer < number) {
+                    System.out.println("Angka terlalu kecil.");
+                    } else if (answer > number) {
+                    System.out.println("Angka terlalu besar.");
+                    } else {
+                    success = true;
+                    System.out.println("Tebakan benar!");
+                    }
 
             }while(!success);
             System.out.print("apakah anda ingin mengulang permainan (Y/y)?");
             menu = input.nextLine().charAt(0);
         }while (menu=='y' || menu=='Y');
             
-        }
+    
 
     }
+}
