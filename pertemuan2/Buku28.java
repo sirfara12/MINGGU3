@@ -55,4 +55,5 @@ public class Buku28 {
         int diskon = hitungDiskon();
         return hargaTotal - diskon;
     }
+
 }
